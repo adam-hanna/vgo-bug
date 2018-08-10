@@ -12,7 +12,7 @@ require (
 	github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
 	github.com/docker/containerd v0.2.8
 	github.com/docker/distribution v0.0.0-20170720211245-48294d928ced
-	github.com/docker/docker v0.0.0-20170601211448-f5ec1e2936dc
+	github.com/docker/docker v0.0.0-20170504205632-89658bed64c2
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/go-events v0.0.0-20170721190031-9461782956ad
 	github.com/docker/go-units v0.3.3
